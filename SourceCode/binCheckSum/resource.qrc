@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>binFile/audio.bin</file>
+        <file>binFile/fpga.bin</file>
+    </qresource>
+</RCC>
